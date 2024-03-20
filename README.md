@@ -27,7 +27,6 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 📊
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AryaEm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
