@@ -27,7 +27,8 @@
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-#📊
+# 📊
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaEm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
