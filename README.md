@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# 💫 Hii, I'm Arya <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# 😶‍🌫️ Hii, I'm Arya <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 > My name is Arya Maulana, currently living in Malang, Indonesia. Known computers since high school and interested in coding. I'm currently interested in learning some frontend frameworks.
 <p align="center">
     <a href="https://github.com/AryaEm" target="_blank">
@@ -25,6 +25,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AryaEm&icon=7&color=11)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=AryaEm&icon=3&color=11)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
