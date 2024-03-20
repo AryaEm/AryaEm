@@ -26,10 +26,3 @@
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=nurrifqialhusaini.nurrifqialhusaini)
-# Github Stats
-<p float="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=nurrifqialhusaini&row=2&column=3&theme=onedark#1&margin-w=15&margin-h=15" width="50%">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=nurrifqialhusaini&theme=onedark" width="34%" />
-</p>
