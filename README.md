@@ -23,8 +23,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AryaEm&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=AryaEm&icon=3&color=11)](https://visitcount.itsvg.in)
 
 ---
-![](https://visitcount.itsvg.in/api?id=AryaEm&icon=3&color=11)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
