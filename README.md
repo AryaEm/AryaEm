@@ -16,12 +16,9 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=AryaEm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AryaEm&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaEm&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AryaEm&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryaEm&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=AryaEm&icon=3&color=11)](https://visitcount.itsvg.in)
 
