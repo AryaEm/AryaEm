@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) 
+ ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) 
 # 😶‍🌫️ Hii, I'm Arya <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 > My name is Arya Maulana, currently living in Malang, Indonesia. Known computers since high school and interested in coding. I'm currently interested in learning some frontend frameworks.
 <p align="center">
