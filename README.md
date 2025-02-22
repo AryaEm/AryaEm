@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/1wJ787vEIDYAAAAM/michie-michie-jkt48.gif"  />
+  <img height="300" src="https://tenor.googleapis.com/v2/media?id=10585991137602939953&format=optimizedgif&client_key=tenor_web&appversion=browser-r20250213-1&access_token=ya29.a0AXeO80R2SRdqcVmzKLVSIS8474GvKdTqIRmGEhOFTR76ySWrwuPEAHPFQ-zkQFpcwnHDQGjC8AzcWQUKPPDEZkL0FEmbR7b_Ro8IZ_n9QuJEjrwNsZziOq_l5_x7WmuPtqaywj76V3Eqbw8jREq9JWNW8vGjf6CeMUHL15jzaCgYKASISARISFQHGX2Mi_u_ymJ1TKJZEKiolvGUqUg0175&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8"  />
 </div>
+
 
 ![GitHub Contribution](./github-user-contribution2.svg)   
 
