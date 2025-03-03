@@ -1,11 +1,9 @@
-<div align="center">
-  <img height="300" src="https://tenor.googleapis.com/v2/media?id=10585991137602939953&format=optimizedgif&client_key=tenor_web&appversion=browser-r20250213-1&access_token=ya29.a0AXeO80R2SRdqcVmzKLVSIS8474GvKdTqIRmGEhOFTR76ySWrwuPEAHPFQ-zkQFpcwnHDQGjC8AzcWQUKPPDEZkL0FEmbR7b_Ro8IZ_n9QuJEjrwNsZziOq_l5_x7WmuPtqaywj76V3Eqbw8jREq9JWNW8vGjf6CeMUHL15jzaCgYKASISARISFQHGX2Mi_u_ymJ1TKJZEKiolvGUqUg0175&key=AIzaSyC-P6_qz3FzCoXGLk6tgitZo4jEJ5mLzD8"  />
-</div>
 
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5lYm1jMjFrYnpyMjg2MGJvOGF3d3Z6enNsM2wxbGFvenp5c3ZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dilObmTa6aDJE1Tb6/giphy.gif" height="360" >
 
 ![GitHub Contribution](./github-user-contribution2.svg)   
 
-# <h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi👋 I'm Arya!</h2> 
+<h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi👋 I'm Arya!</h2> 
 
 > Hi, I'm Arya! I'm a vocational high school student with a strong passion for coding, especially in web development. I enjoy exploring different technologies and building projects that are not only interesting but also useful. Right now, I'm focused on improving my skills in developing web-based applications and continuously learning to enhance my problem-solving abilities. I believe that technology is a powerful tool to make life easier, and I want to be a part of its growth!
 
