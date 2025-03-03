@@ -1,5 +1,5 @@
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5lYm1jMjFrYnpyMjg2MGJvOGF3d3Z6enNsM2wxbGFvenp5c3ZkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8dilObmTa6aDJE1Tb6/giphy.gif" height="360" >
+<img src="https://media1.tenor.com/m/kuj-2khBrDEAAAAd/micii.gif" width="300">
 
 ![GitHub Contribution](./github-user-contribution2.svg)   
 
