@@ -1,5 +1,6 @@
-
-<img src="https://media1.tenor.com/m/kuj-2khBrDEAAAAd/micii.gif" width="300">
+<p align="center">
+  <img src="https://media1.tenor.com/m/kuj-2khBrDEAAAAd/micii.gif" width="500">
+</p>
 
 ![GitHub Contribution](./github-user-contribution2.svg)   
 
