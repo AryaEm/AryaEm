@@ -18,7 +18,7 @@
   <img src="https://streak-stats.demolab.com?user=AryaEm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+##
 
 <br>
 <br>
@@ -40,8 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="Figma" />
 </div>
 
-----------
-###
+##
 
 <br>
 
@@ -58,7 +57,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
 </div>
 
-----------
 ###
 
 <br>
