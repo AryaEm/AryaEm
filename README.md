@@ -24,7 +24,7 @@
 <br>
 
 ### Tech Stack & Tools
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
@@ -46,7 +46,7 @@
 <br>
 
 ### Let's Connect!
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/aryaa.em" target="_blank">
 <a href="https://www.instagram.com/aryaa.em" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
