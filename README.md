@@ -8,6 +8,12 @@
 
 > Hi, I'm Arya! I'm a vocational high school student with a strong passion for coding, especially in web development. I enjoy exploring different technologies and building projects that are not only interesting but also useful. Right now, I'm focused on improving my skills in developing web-based applications and continuously learning to enhance my problem-solving abilities. I believe that technology is a powerful tool to make life easier, and I want to be a part of its growth!
 
+<br>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AryaEm.AryaEm&left_color=mediumaquamarine&right_color=slategrey&left_text=Profile%20Views" />
+</div>
+
 ###
 
 <br>
@@ -69,9 +75,3 @@
 </div>
 
 ###
-
-<br>
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AryaEm.AryaEm&left_color=mediumaquamarine&right_color=slategrey&left_text=Profile%20Views" />
-</div>
