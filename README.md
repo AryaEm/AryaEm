@@ -1,6 +1,9 @@
 <!-- <p align="center">
   <img src="https://media1.tenor.com/m/kuj-2khBrDEAAAAd/micii.gif" width="500">
-</p> -->
+</p>  -->
+ <p align="center">
+  <img src="https://i.makeagif.com/media/2-06-2025/DL2EKh.gif" width="500">
+</p>
 
 ![GitHub Contribution](./github-user-contribution2.svg)   
 
