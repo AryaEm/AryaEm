@@ -1,67 +1,48 @@
-<!-- <p align="center">
-  <img src="https://media1.tenor.com/m/kuj-2khBrDEAAAAd/micii.gif" width="500">
-</p>  -->
- <p align="center">
-  <img src="https://i.makeagif.com/media/2-06-2025/DL2EKh.gif" width="500">
-</p>
+  <img style="width:100%;" src="https://c.tenor.com/kuj-2khBrDEAAAAd/tenor.gif" alt="Liz" />
 
-![GitHub Contribution](./github-user-contribution2.svg)   
+```javascript
+const Arya = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "React", "Next.js"],
+    askMeAbout: ["Web Development"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        databases: {
+            sql: ["MySQL", "Supabase"],
+            noSql: ["Firebase"]
+        }
+    },
+    currentFocus: "Frontend",
+};
+```
 
-<h2> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi👋 I'm Arya!</h2> 
+## 👨‍💻 About Me
 
-> Hi, I'm Arya! I'm a vocational high school student with a strong passion for coding, especially in web development. I enjoy exploring different technologies and building projects that are not only interesting but also useful. Right now, I'm focused on improving my skills in developing web-based applications and continuously learning to enhance my problem-solving abilities. I believe that technology is a powerful tool to make life easier, and I want to be a part of its growth!
+Passionate web developer with a love for building tools and websites that genuinely make people's lives easier.
 
-<br>
+📍 Malang, ID
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AryaEm.AryaEm&left_color=mediumaquamarine&right_color=slategrey&left_text=Profile%20Views" />
-</div>
+## 📊 GitHub Stats
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaEm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaEm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AryaEm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=true" height="150" alt="languages graph" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=AryaEm&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-</div>
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AryaEm&theme=radical)
 
-##
+## 🔗 Connect
 
-<br>
-<br>
+- 🌐 [Website](https://aryaem.vervel.app)
+- 📧 [Email](mailto:ary4maulanaa@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/arya-maulana-86a087285/)
+- 🐙 [GitHub](https://github.com/AryaEm)
 
-### Tech Stack & Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="Figma" />
-</div>
+## ☕ Buy Me a Coffee
 
-##
-
-<br>
-
-###
-
-<br>
-
-### 🎵 Recently Played on Spotify
-<div align="left">
-  <a href="https://open.spotify.com/user/31ny25fko7qrrzcdhzq7frs6n6ca">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ny25fko7qrrzcdhzq7frs6n6ca&count=5&unique=false" alt="Spotify recently played" />
-  </a>
-</div>
-
-###
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://tako.id/aryaem)
