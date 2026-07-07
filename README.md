@@ -1,4 +1,6 @@
-  <img style="width:100%;" src="https://c.tenor.com/kuj-2khBrDEAAAAd/tenor.gif" alt="Liz" />
+ <p align="center">
+  <img style="width:600px;" src="https://c.tenor.com/kuj-2khBrDEAAAAd/tenor.gif" alt="Liz" />
+</p>
 
 ```javascript
 const Arya = {
