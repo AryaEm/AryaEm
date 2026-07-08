@@ -1,5 +1,5 @@
  <p align="center">
-  <img style="width:600px;" src="https://c.tenor.com/kuj-2khBrDEAAAAd/tenor.gif" alt="Liz" />
+  <img style="width:1000px;" src="https://s5.ezgif.com/tmp/ezgif-5d043617b8492aad.gif" alt="Liz" />
 </p>
 
 ```javascript
@@ -24,12 +24,6 @@ const Arya = {
 };
 ```
 
-## 👨‍💻 About Me
-
-Passionate web developer with a love for building tools and websites that genuinely make people's lives easier.
-
-📍 Malang, ID
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaEm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
@@ -37,13 +31,6 @@ Passionate web developer with a love for building tools and websites that genuin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaEm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AryaEm&theme=radical)
-
-## 🔗 Connect
-
-- 🌐 [Website](https://aryaem.vervel.app)
-- 📧 [Email](mailto:ary4maulanaa@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/arya-maulana-86a087285/)
-- 🐙 [GitHub](https://github.com/AryaEm)
 
 ## ☕ Buy Me a Coffee
 
