@@ -29,7 +29,7 @@ const Arya = {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AryaEm&theme=radical)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AryaEm&theme=black-ice)
 
 ## ☕ Buy Me a Coffee
 
