@@ -2,6 +2,9 @@
   <img style="width:1000px;" src="https://s5.ezgif.com/tmp/ezgif-5d043617b8492aad.gif" alt="Liz" />
 </p>
 
+  <img src="https://raw.githubusercontent.com/AryaEm/AryaEm/master/cacing.svg" alt="Uler SVG" />
+
+
 ```javascript
 const Arya = {
     pronouns: "He" | "Him",
@@ -27,10 +30,6 @@ const Arya = {
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaEm&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaEm&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=AryaEm&theme=radical)
 
 ## ☕ Buy Me a Coffee
 
