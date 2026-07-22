@@ -24,6 +24,7 @@ const Arya = {
         }
     },
     currentFocus: "Frontend",
+    hoobies: "porsche"
 };
 ```
 
