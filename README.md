@@ -1,5 +1,5 @@
  <p align="center">
-  <img style="width:500px;" src="https://res.cloudinary.com/jc8cbryh/image/upload/v1785141742/lblqwkfqdbprg9gw5vqa.jpg" alt="Liz" />
+  <img style="width:500px;" src="https://res.cloudinary.com/jc8cbryh/image/upload/v1785920419/n4hytme4tbgixgaeygd6.gif" alt="Liz" />
 </p>
 
   <img src="https://raw.githubusercontent.com/AryaEm/AryaEm/master/cacing.svg" alt="Uler SVG" />
