@@ -30,8 +30,9 @@ const Arya = {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AryaEm&theme=black-ice)
-
+<div align="start">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryaem&theme=black-ice" alt="GitHub Streak">
+</div>
 
 ## ☕ Buy Me a Coffee
 
