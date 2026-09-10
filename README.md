@@ -1,6 +1,3 @@
- <p align="center">
-  <img width="1000px" src="https://raw.githubusercontent.com/AryaEm/AryaEm/master/liz21.gif" alt="Liz" />
-</p>
 
   <img src="https://raw.githubusercontent.com/AryaEm/AryaEm/master/cacing.svg" alt="Uler SVG" />
 
