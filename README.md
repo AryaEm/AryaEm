@@ -1,6 +1,3 @@
-
-  <img style="width:1000px; height:100%;" src="https://res.cloudinary.com/jc8cbryh/image/upload/v1789047196/olkyixxqapbcrnujbjlf.gif" alt="head" />
-
   <img src="https://raw.githubusercontent.com/AryaEm/AryaEm/master/cacing.svg" alt="Uler SVG" />
 
 
